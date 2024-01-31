@@ -1,4 +1,4 @@
-#Fridge Demo App 
+# Fridge Demo App 
 
 A demo aplication created using Expo whilst learning React Native. This prototype alows storing and removing items from your "virtual fridge".
 
